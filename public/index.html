@@ -48,6 +48,8 @@
   <script src = "./db.js"></script>
   <script>
     //if
+    console.log("whole window", window);
+    console.log(window.navigator);
      ("serviceWorker" in navigator) 
       window.addEventListener("load", () => {
         navigator.serviceWorker.register("service-worker.js").then(reg => {

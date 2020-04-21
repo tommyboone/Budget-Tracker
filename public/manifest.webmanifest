@@ -21,6 +21,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "/",
+    "start_url": "http://budget-tracker-tb.herokuapp.com/",
     "display": "standalone"
   }

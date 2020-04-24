@@ -1,7 +1,7 @@
 # Budget-Tracker
 
 # Link to Deployed App
-http://budget-tracker-tb.herokuapp.com/
+https://budget-tracker-tb.herokuapp.com/
 
 # Description
 Budget Tracker application that allows for offline access and functionality.
